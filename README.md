@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website repository. This project showcases my web development skills, projects, and services in a clean and responsive design.
 
 ## 🚀 Live Demo
-👉 https://vikasswebcode.github.io/portfolio/
+👉 https://vikasswebcode.github.io/Portfolio/
 
 ## 📌 About This Project
 
