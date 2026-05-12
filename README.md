@@ -39,3 +39,10 @@ The website is fully responsive and works smoothly across desktop, tablet, and m
 portfolio/
 │── portfolio.html
 └── README.md
+
+**👨‍💻 Author**
+📬 Contact Me
+🌐 Portfolio: https://vikasswebcode.github.io/portfolio/
+💼 LinkedIn: https://linkedin.com/in/your-profile
+📧 Email: vikaswebcode@gmail.com
+🐙 GitHub: https://github.com/vikasswebcode
